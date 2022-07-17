@@ -21,4 +21,6 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
+Route::get('/users/list', [\App\Http\Controllers\UserController::class, 'index'])->middleware('auth');
+
 require __DIR__.'/auth.php';
