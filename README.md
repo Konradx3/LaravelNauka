@@ -17,5 +17,6 @@
 <p>- How to do and what is Request</p>
 <p>- Using View, Blade</p>
 <p>- How to do and what is Migrations</p>
+<p>- Pagination</p>
 
 <h3>More coming soon...</h3>
