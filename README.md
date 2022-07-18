@@ -1,7 +1,7 @@
 <h1>First adventure with Lavarvel</h1>
 <p>This is my first project in Laravel framework.</p>
 <p>I want to write down my progress and the topics I learned here.</p>
-<p>You can download the current state of my learning <a href="https://github.com/Konradx3/Laravel">here</a>.</p>
+<p>You can download the current state of my learning <a href="https://github.com/Konradx3/LaravelNauka">here</a>.</p>
 <p>After downloading the project, make sure you have <a href="https://getcomposer.org">Composer</a> and <a href="https://nodejs.org/en/">Node.js</a>.</p>
 <p>Then use the commands:</p>
 <p>- composer install</p>
